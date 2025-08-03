@@ -27,14 +27,14 @@ The GRC Mastery course covers the fundamentals of risk management, governance fr
 
 ## 📂 Projects
 
-| Project Title               | Description                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|
-| 🧪 Risk Assessment          | Developed a mock risk register, calculated likelihood and impact            |
-| 👤 User Access Review       | Built a UAR template to ensure least privilege and review processes         |
-| 🛡️ Vulnerability Management | Outlined a full vuln management lifecycle and example remediation workflow  |
-| 📋 Policy Documentation     | Wrote a sample Information Security Policy aligned with ISO 27001           |
-| 🔍 Compliance Gap Analysis  | Performed gap analysis between current controls and compliance standards    |
-| 💼 Capstone: Oscorp GRC     | Final client simulation with a report, visual, and GRC recommendations      |
+Below are the projects and simulations I completed (or am actively working on) as part of my GRC learning path:
+
+1. [Oscorp Cybersecurity & GRC Scenario](https://github.com/GScalzo21/GRC/blob/GScalzo21/Oscorp_Assignment.md)  
+   Simulated case study working as a GRC Consultant for a Big 4 firm, helping a bioengineering company prepare for cybersecurity audits and legal compliance.
+
+*More projects to be added soon — including risk registers, policy simulations, compliance gap exercises, and final capstone deliverables.*
+
+
 
 
 ---
